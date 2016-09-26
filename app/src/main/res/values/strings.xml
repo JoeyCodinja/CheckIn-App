@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckIn-App</string>
+    <string name="testing_geofences_capability">Testing Geofences Capability</string>
+    <string name="finding_location">Determining Your Location…</string>
+    <string name="science_amp_check_in">Science &amp; Technology Check-In</string>
+    <string name="medical_sciences_check_in">Medical Sciences Check-In</string>
+    <string name="mits_check_in">MITS Check-In</string>
+    <string name="humed_check_in">Humanities &amp; Education Check-In</string>
+    <string name="sosci_check_in">Social Sciences Check-In</string>
+</resources>
